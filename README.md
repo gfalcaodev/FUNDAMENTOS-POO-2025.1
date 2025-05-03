@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/59371946e12862b920769eaf85796b8eee59966cb91760d83164b05ad2a6b5e7/68747470733a2f2f7777772e707563676f6961732e6564752e62722f77702d636f6e74656e742f75706c6f6164732f323032302f30382f7075632d676f6961732e737667" alt="Logo da PUC Goiás" width="200"/>
-</p>
+![Logo PUC Goiás](https://www.pucgoias.edu.br/wp-content/uploads/2020/08/puc-goias.svg)
 
 # 👨‍💻 FUNDAMENTOS-POO-2025.1
 
